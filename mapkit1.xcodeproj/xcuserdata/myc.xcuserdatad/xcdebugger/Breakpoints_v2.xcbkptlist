@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "596E311A-0D19-4AA6-85A2-F175BA84A846"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE1E853E-7442-4A7B-87F3-C755DF221738"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mapkit2 ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "mapkit2ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FE1E853E-7442-4A7B-87F3-C755DF221738 - 6520f834964e3843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mapkit1.mapkit2_ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "mapkit1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/myc/Desktop/codes/mapkit1/mapkit2%20ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "334">
+               </Location>
+               <Location
+                  uuid = "FE1E853E-7442-4A7B-87F3-C755DF221738 - 73ce8f90b0c66b71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mapkit1.mapkit2_ViewController.islocationareaenable() -&gt; Swift.Bool"
+                  moduleName = "mapkit1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/myc/Desktop/codes/mapkit1/mapkit2%20ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
