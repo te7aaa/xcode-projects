@@ -17,6 +17,8 @@ class mapkit2ViewController: UIViewController , CLLocationManagerDelegate  {
         if  islocationareaenable() {
             checkautorized()
             
+            
+            
         }else{
             showalert(msg: "not enable to use location please open taht ")
             
